@@ -1,0 +1,77 @@
+nav {
+	height: 
+}
+li {
+	display: inline;
+	color: black;
+	vertical-align: 15px;
+	margin: 0px 20px;
+	float: right;
+	background-color: #4caf50;
+	padding: 12px 30px;
+	color: white;
+	border-radius: 15px;
+}
+nav {
+	background-color: #fafafa;
+	border: 20px solid block;
+
+}
+a {
+	text-decoration: none;
+}
+.backgroundSection {
+	display: block;
+	background-image: url(http://ossweb-img.qq.com/images/lol/web201310/skin/big1000.jpg);
+	background-size: cover;
+	height: 100vh;
+	background-attachment: fixed;
+}
+.bgImg {
+	height: 100vh;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: -1;
+}
+.jineng img {
+	margin: 10px 50px;
+	float: left;
+	display: inline;
+
+}
+p {
+	display: block;
+}
+hr {
+	margin: 55px 0px;
+}
+h6 {
+	display: block;
+}
+.dafa img {
+	margin: 0px 20px 30px 0px;
+}
+.jineng {
+	height: 100vh;
+	display: block;
+	padding: 50px;
+	background-color: white;
+	padding:50px 50px;
+	margin: 20px 50px;
+
+}
+.dafa {
+	height: 100vh;
+	display: block;
+	padding: 50px;
+}
+dd {
+	margin: 16px 0px;
+}
+.shipin {
+	height: 100vh;
+	display: block;
+	padding: 50px;
+}

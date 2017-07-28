@@ -1,0 +1,64 @@
+li {
+	display: inline;
+	color: black;
+	vertical-align: 15px;
+	margin: 0px 20px;
+}
+a {
+	text-decoration: none;
+}
+ul {
+	display: inline;
+	float: right;
+}
+nav {
+	background-color: #fafafa;
+	position: fixed;
+	width: 100%;
+
+}
+.backgroundSection {
+	background-image: url(https://www.critical-reviews.com/wp-content/uploads/2016/01/league-legends.jpg);
+	background-size: cover;
+	height: 80vh;
+}
+body {
+	margin: 0px;
+}
+section {
+	height: 100vh;
+	display: block;
+	padding: 50px
+}
+section h1 {
+	font-size: 50px;
+	display: block;
+}
+section p {
+	display: block;
+	text-transform: capitalize;
+}
+
+section img {
+	display: inline;
+	float: left;
+}
+section h4 {
+	text-align: center;
+}
+footer {
+	background-color: #fafafa;
+	height: 10vh;
+}
+.loginBtn {
+	background-color: #4caf50;
+	padding: 12px 30px;
+	color: white;
+	border-radius: 15px;
+	margin: 40px 20px 40px 20px;
+}
+.top {
+    position: fixed;
+    bottom: 80px;
+    right: 80px;
+}

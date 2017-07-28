@@ -1,0 +1,179 @@
+nav	{
+	padding: 15px 30px 10px 30px;
+	border-bottom: 
+	border-bottom-color: rgba(34, 34, 34, 0);
+	color: rgba(255,255,255,.7);	
+	position: fixed;
+	top: 0px
+}
+h4	{
+	display: inline;
+}
+ul	{
+	margin: 0px 0px;
+	float: right;
+	display: inline;
+
+}
+li	{
+	display: inline;
+	color: black;
+	vertical-align: 30px;
+	margin: 0px 20px;
+    color: rgba(255,255,255,.7);
+}
+.header {
+	background-image: url(https://blackrockdigital.github.io/startbootstrap-creative/img/header.jpg);
+	background-size: cover;
+	height: 100vh;
+	background-position: center;
+	background-color: transparent;
+	padding: 100px 0px;
+	margin: 0px 0px;
+
+} 
+.title {
+	font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 30px;
+    text-align: center;
+    line-height: 1.1;
+    display: block;
+    width: 100%;
+    color: white;
+   }
+.fBtn{
+	border: none;
+	border-radius: 300px;
+	color: black;
+	background-color: #fff;
+	padding: 15px 30px;
+	font-weight: 700;
+}
+.about {
+	height: 65vh;
+	background-color: #f05f40;
+	margin: 0px 0px 0px 0px;
+	padding: 100px 240px;
+	text-align: center;	
+	color: rgba(255,255,255,.7);
+}
+.about h2 {
+	margin: 0px 0px;
+	font-size: 30; 
+	color: #fff
+}
+.about p {
+	font-size: 16px;
+	line-height: 1.5;
+	margin: 0px 0px 20px 0px;
+	padding: 0px 50px;	
+}
+.hrr {
+	background-color: #ffffff;
+	height: 3px;
+	width: 45px;
+	text-align: center;
+	margin: 20px auto;
+	display: block;
+}
+.about .btn {
+	border: none;
+	border-radius: 300px;
+	color: #222;
+	background-color: #fff;
+	padding: 15px 30px;
+	font-weight: 700;
+}
+.services {
+	height: 60vh;
+	text-align: center;
+	padding: 50px 50px;
+}
+.services h2 {
+	font-size: 30px;
+	margin: 50px 30px;
+}
+#icon {
+	text-align: center;
+	color: #f05f40;
+	font-size: 4em;
+}
+.col-md-4 {
+	padding: 0px 0px;
+}
+.services hr {
+	color: #f05f40;
+}
+.portifolio .col-md-12 {
+	background-color: #222;
+	height: 25vh;
+	text-align: center;
+	color: #ffffff
+
+
+}
+.portifolio img {
+	max-width: 100%;
+
+}
+.portifolio div {
+	padding: 0px 0px;
+}
+.dlBtn {
+	border: none;
+	border-radius: 300px;
+	color: #222;
+	background-color: #fff;
+	padding: 15px 30px;
+	font-weight: 700;
+	text-align: center;	
+}
+.j {
+	text-align: center;
+}
+.j .title {
+	font-size: 40px;
+	color: white;
+		padding: 0px 200px
+}
+.j p {
+	font-size: 18px;
+	color: rgba(255,255,255,.7);
+	margin: 0px 0px 50px 0px;
+		padding: 0px 200px
+}
+.hrrr {
+	background-color: #f05f40;
+	height: 3px;
+	width: 45px;
+	text-align: center;
+	margin: 30px auto;
+	display: block;
+}
+.contact h2 {
+	margin: 45px 0px 15px 0px;
+}
+.contact {
+	height: 60vh;
+	text-align: center;
+	font-size: 16px;
+	margin: 0px 80px;
+	padding: 100px 170px;
+}
+.contact i {
+	font-size: 3em;
+}
+.a {
+	color: #f05f40;
+}
+.hr {
+	background-color: #f05f40;
+	height: 3px;
+	width: 45px;
+	text-align: center;
+	margin: 0px auto;
+	display: block;
+}
